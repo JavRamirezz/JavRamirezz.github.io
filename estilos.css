@@ -50,3 +50,9 @@ p {
   float:left;
   margin: 0 1.0%;
 }
+#lista{
+  list-style: none;
+}
+#lista2{
+  list-style: none;
+}
