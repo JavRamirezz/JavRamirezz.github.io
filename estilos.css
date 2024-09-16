@@ -37,10 +37,7 @@ p {
     margin: 0 2.0%;
     width: 65%;
   }
-#amigos{
-    float: left;
-   
-  }
+
 #amigos2 {
     float: left;
 
@@ -48,8 +45,4 @@ p {
 #bandera {
     float: left;
 
-  }
-#computadora{
-    float: left;
-    
   }
