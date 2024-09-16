@@ -39,21 +39,17 @@ p {
   }
 #amigos{
     float: left;
-    margin: 0 2.0%;
-    width: 50%;
+   
   }
-#amigos_2 {
+#amigos2 {
     float: left;
-    margin: 0 2.0%;
-    width: 50%;
+
 }
 #bandera {
     float: left;
-    margin: 0 2.0%;
-    width: 50%;
+
   }
 #computadora{
     float: left;
-    margin: 0 2.0%;
-    width: 50%;
+    
   }
