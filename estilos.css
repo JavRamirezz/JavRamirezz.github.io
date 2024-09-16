@@ -22,3 +22,8 @@ p {
 p {
     font-size: x-large;
 }
+p {
+    float: left;
+    margin: 0 1.5%;
+    width: 63%;
+  }
