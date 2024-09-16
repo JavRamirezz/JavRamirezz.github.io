@@ -13,12 +13,7 @@ li {
 li {
     font-size:x-large
 }
-p {
-    font-size: larger;
-}
-#amigos {
-    size: 10cm;
-}
+
 p {
     font-size: x-large;
 }
@@ -53,4 +48,5 @@ p {
 }
 #computadora {
   float:left;
+  margin: 0 1.0%;
 }
