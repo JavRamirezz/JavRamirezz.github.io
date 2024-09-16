@@ -24,8 +24,8 @@ p {
 }
 p {
     float: left;
-    margin: 0 2.0%;
-    width: 50%;
+    margin: 0 1.2%;
+    width: 63%;
   }
   h1{
     float: left;
@@ -45,4 +45,12 @@ p {
 #bandera {
     float: left;
 
-  }
+ }
+
+#amigos {
+  float: left;
+
+}
+#computadora {
+  float:left;
+}
