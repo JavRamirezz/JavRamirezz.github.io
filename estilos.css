@@ -1,0 +1,58 @@
+body {
+    background-image: url(photo-1454129170132-347ea87dc9dd.jpeg)
+}
+p {
+    color: white;
+}
+h1 {
+    color:pink;
+}
+li {
+    color: white;
+}
+li {
+    font-size:x-large
+}
+
+p {
+    font-size: x-large;
+}
+p {
+    float: left;
+    margin: 0 2.0%;
+    width: 63%;
+  }
+  h1{
+    float: left;
+    margin: 0 2.0%;
+    width: 50%;
+  }
+  li{
+    float: left;
+    margin: 0 2.0%;
+    width: 55%;
+  }
+
+#amigos2 {
+    float: left;
+
+}
+#bandera {
+    float: left;
+
+ }
+
+#amigos {
+  float: left;
+
+}
+#computadora {
+  float:left;
+  margin: 0 1.0%;
+}
+#lista{
+  list-style: none;
+}
+#lista2{
+  list-style: none;
+}
